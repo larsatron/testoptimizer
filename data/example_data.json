@@ -1,0 +1,40 @@
+{
+  "work_types": [
+    {
+      "name": "Pole Inspections",
+      "cost": 45,
+      "priority": 8,
+      "min_units": 100,
+      "max_units": 500
+    },
+    {
+      "name": "Underground Cable Replacement",
+      "cost": 1200,
+      "priority": 9,
+      "min_units": 10,
+      "max_units": 100
+    },
+    {
+      "name": "Transformer Maintenance",
+      "cost": 350,
+      "priority": 7,
+      "min_units": 50,
+      "max_units": 300
+    },
+    {
+      "name": "Vegetation Management",
+      "cost": 800,
+      "priority": 6,
+      "min_units": 20,
+      "max_units": 200
+    },
+    {
+      "name": "Substation Upgrades",
+      "cost": 5000,
+      "priority": 10,
+      "min_units": 2,
+      "max_units": 15
+    }
+  ],
+  "budget": 500000
+}
